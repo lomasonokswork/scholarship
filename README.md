@@ -1,6 +1,6 @@
 # Stipendiju aprēķina sistēma
 
-Tīmekļa aplikācija stipendiju aprēķināšanai Latvijas profesionālajām skolām. Izstrādāta PHP bez framework'a, izmantojot MySQL un PhpSpreadsheet.
+Tīmekļa aplikācija stipendiju aprēķināšanai Latvijas profesionālajām skolām. Izstrādāta PHP bez framework, izmantojot MySQL un PhpSpreadsheet.
 
 ---
 
